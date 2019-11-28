@@ -195,7 +195,7 @@ Download the demo sources and lets call the folder as `$PROJECT_HOME`:
 
 [source,bash]
 ----
-git clone https://redhat-developer-demos/quarkus-pipeline-demo &&\
+git clone https://github.com/redhat-developer-demos/quarkus-pipeline-demo &&\
 cd quarkus-pipeline-demo &&\
 export PROJECT_HOME=`pwd`
 ----
